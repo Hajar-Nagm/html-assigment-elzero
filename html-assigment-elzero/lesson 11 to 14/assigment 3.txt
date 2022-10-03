@@ -1,0 +1,11 @@
+<!-- Go To External Link -->
+<a href="https://google.com">Google</a>
+
+<!-- Go To Send mail -->
+<a href="mailto:#@gmail.com">Mail</a>
+
+<!-- Go To Local file -->
+<a href="index.html">File</a>
+
+<!-- Go To specific place in the same file -->
+<a href="#footer">Footer</a>

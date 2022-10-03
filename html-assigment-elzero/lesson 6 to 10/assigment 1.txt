@@ -1,0 +1,5 @@
+1) <!DOCTYPE html>
+2) Quirks Mode
+3)No
+4)No
+5)Heading element un HTML
